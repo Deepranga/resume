@@ -1,0 +1,115 @@
+body {
+
+    margin: 0;
+    padding:0;
+    text-align: center;
+    font-family:cursive;
+}
+.container {
+    background-color: #57C5B6;
+}
+
+h1 {
+    font-size: 90px;
+    color: azure;
+    width: 10%;
+    margin: 0 auto;
+    position: relative;
+    right: 138px;
+}
+.bird{
+    width: 20px;
+    height: 20px;
+    font-size: 30px;
+    position:absolute;
+    top: 0;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+.me{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    top: 10px;
+}
+li{
+    color: blue;
+}
+.iam {
+    position: relative;
+    left: 120px;
+    /* margin:auto auto 0px auto; */
+    position: relative;
+    top: 10px;
+}
+
+p {
+    font-size: 25px;
+    color: rgb(20, 90, 90);
+}
+
+.cloud1 {
+    position: relative;
+    top: 10px;
+    left: 270px;
+}
+
+.cloud2 {
+    position: absolute;
+}
+
+.mountain {
+    position: relative;
+    top: 5px;
+}
+.skills1{
+    height: 124px;
+    width: 246px;
+    position: relative;
+    bottom: 18px;
+}
+.profile{
+background-color: #159895;
+padding: 17px;
+border-radius: 10px dotted;
+border-top: 0;
+border-top-style:none ;
+border-width: dotted;
+position: relative;
+top: 2px;
+}
+.skills2{
+background-color: #1A5F7A;
+padding: 19px;
+padding-bottom: 10px;
+}
+.hobbies{
+    background-color: #2F58CD;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.skill-row2{
+    background-color:#A5D7E8 ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.contact-me{
+    background-color: #655DBB;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.btn{
+  color: azure;
+}
+.bottom-container{
+/* background-color: rgb(80, 255, 133); */
+background-color: #191825;
+width: 100%;
+padding-bottom: 10px;
+/* color: blue; */
+}
+.footer-link{
+    color: blue;
+}
